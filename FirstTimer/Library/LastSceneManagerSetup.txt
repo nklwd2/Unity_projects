@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/UnityUIExperimental.unity
+  isLoaded: 1
+  isActive: 1
